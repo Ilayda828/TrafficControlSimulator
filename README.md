@@ -54,19 +54,3 @@ UI shows live stats (number of crashes and cars that reached destination)
 ✅ Win: Deliver the required number of cars safely to their destination
 
 ❌ Lose: Exceed the allowed number of crashes
-
-🧱 Project Structure
-TrafficControlSimulator/
-├── src/
-│   ├── main/java/
-│   │   ├── simulation/         # Logic classes (Car, RoadTile, etc.)
-│   │   ├── ui/                 # JavaFX UI & Event Handlers
-│   │   └── parser/             # Level file reading & writing
-├── assets/
-│   ├── levels/                 # Level input text files
-│   └── images/                # UI icons, road sprites, etc.
-├── README.md
-
-
-
-
